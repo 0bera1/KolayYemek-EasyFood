@@ -1,6 +1,7 @@
 # Kolay Yemek - Easy Food
 
 An application where you can search for recipes, see which country the dishes belong to, and save your favorite recipes.
+
 Yemek tariflerini arayabildiğimiz bir uygulama, ayrıca bu uygulamadan yemek aratırken yemeklerin hangi ülkeye ait olduğunu da görebilir, istediğiniz yemek tariflerini kaydedebilirsiniz.
 
 # Önizleme Videosu - Preview Video
